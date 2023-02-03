@@ -5,9 +5,9 @@ A new Flutter project.
 ## Getting Started
 
   Entrar na pasta do projeto e no terminal inserir o comando abaixo
-    flutter create nome_projeto
-    cd nome_projeto
-    flutter run
+    - flutter create nome_projeto
+    - cd nome_projeto
+    - flutter run
 
   ### ou também pelo vs code
 
